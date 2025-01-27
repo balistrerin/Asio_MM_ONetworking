@@ -2,9 +2,6 @@
 
 
 #include "net_common.h"
-#include "net_tsqueue.h"
-#include "net_message.h"
-
 
 namespace olc
 {
